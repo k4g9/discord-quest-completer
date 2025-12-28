@@ -1,3 +1,8 @@
+<p align="center">
+  👉 <a href="README.md"><strong>for English README.md click here</strong></a> 👈
+</p>
+
+
 # Better Quest Completer
 
 Lightweight and better Discord quest completer plugin for **Vencord / Equicord**.  
