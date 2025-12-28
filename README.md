@@ -19,11 +19,13 @@ Automatically completes supported Discord quests by simulating required activity
   - 📡 STREAM_ON_DESKTOP
   - 🕹️ PLAY_ACTIVITY
   - **(Works for all quest types)**
+- Adds a button to the top right to complete the task effortlessly.
 - It shows useful notifications for you.
 - Desktop client & browser detection
 - Clean header bar button integration
 - Lightweight & minimal
 
+![Better Quest Completer](button.png)
 ---
 
 ## 🧩 Supported Clients
@@ -48,8 +50,6 @@ General steps:
 4. Copy the plugin files into the `userplugins` folder. It's look like `Vencord(or Equicord)/src/userplugins/better-quest-completer/index.tsx, style.css` (index.tsx and style.css must be in same folder named better-quest-completer)
 5. Then again `pnpm build`, `pnpm inject`, as written in the documentation.
 6. Reload Discord and turn on the Plugin from in the Plugins section
-
-![Better Quest Completer](button.png)
 
 
 📚 **Official documentation for installing/building from source:**
@@ -96,4 +96,5 @@ This project is protected under an MIT license.
 
 - Plugin author: **[k4g9](https://discord.com/users/848987722751410206)**
 - Built for the Vencord / Equicord plugin ecosystem
+
 
