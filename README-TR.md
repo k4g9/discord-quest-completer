@@ -18,11 +18,13 @@ Gerekli aktivite türlerini simüle ederek desteklenen Discord görevlerini otom
   - 📡 STREAM_ON_DESKTOP
   - 🕹️ PLAY_ACTIVITY
   - **(Tüm görev türleri için çalışır)**
+- Sağ üste görevi eforsuz tamamlamak için bir buton ekler
 - Sizin için faydalı bildirimler gösterir
 - Masaüstü istemcisi & tarayıcı algılama
 - Temiz ve kullanışlı üst bar butonu entegrasyonu
 - Hafif ve minimal yapı
 
+![Better Quest Completer](button.png)
 ---
 
 ## 🧩 Desteklenen İstemciler
@@ -52,7 +54,6 @@ Genel adımlar:
 5. Dokümantasyonda yazdığı gibi tekrar `pnpm build` ve `pnpm inject` komutlarını çalıştırın
 6. Discord’u yeniden yükleyin ve **Plugins** bölümünden eklentiyi aktif edin
 
-![Better Quest Completer](button.png)
 
 📚 **Kaynak koddan kurulum / build için resmî dokümantasyon:**
 - Vencord: *(https://docs.vencord.dev/installing)*
@@ -98,3 +99,4 @@ Bu proje **MIT lisansı** ile lisanslanmıştır.
 
 - Eklenti geliştiricisi: **[k4g9](https://discord.com/users/848987722751410206)**
 - Vencord / Equicord eklenti ekosistemi için geliştirilmiştir
+
