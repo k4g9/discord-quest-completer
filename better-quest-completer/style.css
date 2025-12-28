@@ -1,0 +1,11 @@
+.qc-lite-button {
+    padding: 0;
+    width: var(--space-32);
+    min-width: 0;
+    height: var(--space-32);
+    color: var(--interactive-icon-default);
+}
+
+.qc-lite-button:hover {
+    filter: brightness(1.4);
+}
