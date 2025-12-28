@@ -1,5 +1,5 @@
 <p align="center">
-  👉 <a href="README.md"><strong>for English README.md click here</strong></a> 👈
+  <a href="README-TR.md"><strong>Türkçe README-TR.md için buraya tıklayın</strong></a>
 </p>
 
 
@@ -96,3 +96,4 @@ This project is protected under an MIT license.
 
 - Plugin author: **[k4g9](https://discord.com/users/848987722751410206)**
 - Built for the Vencord / Equicord plugin ecosystem
+
